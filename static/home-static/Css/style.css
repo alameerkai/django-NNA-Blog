@@ -1,0 +1,25 @@
+.single_post{
+  width: 100%
+}
+.banner{
+  width: 100%
+}
+.blog_form{
+  width: 100%
+}
+.message_div{
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.messages{
+  background-color: black;
+  color: white;
+  text-transform: unset;
+}
+
+.messages li {
+  padding: 15px;
+  list-style-type: none;
+}
